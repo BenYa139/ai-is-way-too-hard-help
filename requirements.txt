@@ -1,4 +1,8 @@
 streamlit
+streamlit-mic-recorder
 SpeechRecognition
-numpy
-anthropic
+   librosa
+   shap
+   scikit-learn
+   soundfile
+   anthropic
